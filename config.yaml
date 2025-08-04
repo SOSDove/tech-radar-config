@@ -7,49 +7,49 @@ date: "2025.05"
 entries:
   quadrants:
     datastores:
-      - ring: 0
+      - ring: "ADOPT"
         label: "MSSQL"
         active: true
         moved: 0
-      - ring: 2
+      - ring: "ASSESS"
         label: "REDIS"
         link: "https://redis.io/"
         active: true
         moved: 0
-      - ring: 2
+      - ring: "ASSESS"
         label: "Infinispan"
         active: true
         moved: 0
     infrastructure:
-      - ring: 0
+      - ring: "ADOPT"
         label: "Tekton"
         active: true
         moved: 0
-      - ring: 2
+      - ring: "ASSESS"
         label: "Test Containers Cloud"
         active: true
         link: "https://testcontainers.com/cloud/"
         moved: 0
-      - ring: 0
+      - ring: "ADOPT"
         label: "Kubernetes"
         active: true
         moved: 0
-      - ring: 0
+      - ring: "ADOPT"
         label: "Docker"
         active: true
         moved: 0
     datamanagement:
       []
     languages:
-      - ring: 0
+      - ring: "ADOPT"
         label: "Python"
         active: true
         moved: 0
-      - ring: 0
+      - ring: "ADOPT"
         label: "Java"
         active: true
         moved: 0
-      - ring: 0
+      - ring: "ADOPT"
         label: "C#"
         active: true
         moved: 0
