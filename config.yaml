@@ -24,7 +24,7 @@ entries:
       - ring: 0
         label: "Tekton"
         active: true
-        moved: 1
+        moved: 0
       - ring: 2
         label: "Test Containers Cloud"
         active: true
