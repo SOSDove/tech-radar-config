@@ -53,3 +53,7 @@ entries:
         label: "C#"
         active: true
         moved: 0
+      - ring: "HOLD"
+        label: "PHP"
+        active: true
+        moved: 0
